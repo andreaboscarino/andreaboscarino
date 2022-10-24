@@ -1,7 +1,7 @@
 ### Hiya, I'm Bosca! 
 
 - Based in Bologna 🇮🇹.
-- Working as a Data Scientist at [Musixmatch](https://www.musixmatch.com/it) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Musixmatch_logo_icon_only.svg/1200px-Musixmatch_logo_icon_only.svg.png"  width="20" height="20"/>.
+- Working as a Data Scientist at [Musixmatch](https://www.musixmatch.com/it) <a href="https://github.com/musixmatch"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Musixmatch_logo_icon_only.svg/1200px-Musixmatch_logo_icon_only.svg.png"  width="16" height="16"/></a>.
 - Obsessed about everything concerning music 🎧.
 - Reach me at:
 <!--
